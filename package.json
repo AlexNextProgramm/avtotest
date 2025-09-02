@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AlexNextProgramm/avtotest/issues"
   },
-  "homepage": "https://github.com/AlexNextProgramm/avtotest#readme"
+  "homepage": "https://github.com/AlexNextProgramm/avtotest#readme",
+  "dependencies": {
+    "electron": "^37.4.0"
+  }
 }
