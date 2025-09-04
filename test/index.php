@@ -10,6 +10,8 @@
 <body>
     <a href="/blabalbal"></a>
     <p>привет контекст</p>
+    <img src="c:\Users\Артем\OneDrive\Рабочий стол\Картинки\Batman.gif" alt="рыцарь готем" width="">
+    <img src="c:\Users\Артем\OneDrive\Рабочий стол\Картинки\images.jfif" alt="девочка и кот" width="">
     <input name="soda"></input>
     <script>
         let elm = document.querySelector("p")
@@ -17,10 +19,7 @@
         console.log(window)
         console.log(document.body)
         console.dir(elm)
-        elm.onclick = (event) => {
-            console.log(event)
-            alert("я нажал на браузер")
-        }
+
         console.dir(document.body.querySelector("[name='soda']"))
         elm.click()
     </script>
