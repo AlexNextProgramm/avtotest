@@ -10,8 +10,7 @@
 <body>
     <a href="/blabalbal"></a>
     <p>привет контекст</p>
-    <img src="c:\Users\Артем\OneDrive\Рабочий стол\Картинки\Batman.gif" alt="рыцарь готем" width="">
-    <img src="c:\Users\Артем\OneDrive\Рабочий стол\Картинки\images.jfif" alt="девочка и кот" width="">
+    <img src='' alt="" width="">
     <input name="soda"></input>
     <script>
         let elm = document.querySelector("p")
